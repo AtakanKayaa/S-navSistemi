@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="adminEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adminPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="kayitOl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ogrenciGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="sifremiUnuttum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="sinavaGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SinavEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SinavSistemi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Öğretmen_UC\UC_SoruGüncelle.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Öğretmen_UC\UC_SorularıGorSil.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Öğretmen_UC\UC_YeniSoruEkle.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
